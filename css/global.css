@@ -20,7 +20,7 @@ zoom:1;
 /*Global*/
 body { min-width:1082px; background:#f3f3f3; font: 12px/1.5 "Microsoft Yahei", arial, sans-serif; color:#fff;}
 .container { width:980px; margin:0 auto;}
-.layout { width:100%; background:url(../images/bg.png) no-repeat 0 0; box-shadow:#ddd 1px 1px 1px;}
+.layout { width:100%; background:#000 url(../images/bg.png) no-repeat center 0; box-shadow:#ddd 1px 1px 1px;}
 
 /*header*/
 header { height:85px; background:#000;}
